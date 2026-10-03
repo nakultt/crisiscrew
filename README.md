@@ -60,7 +60,7 @@ Every tool call, by an agent or an external MCP client, goes through one policy 
 You need Node 24 LTS (Node 25 also works) and pnpm 10.
 
 ```bash
-git clone https://github.com/Sachin0496/crisiscrew.git
+git clone https://github.com/nakultt/crisiscrew.git
 cd crisiscrew
 pnpm install
 pnpm start
